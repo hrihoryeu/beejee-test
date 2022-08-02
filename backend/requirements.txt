@@ -1,0 +1,12 @@
+flask
+psycopg2-binary
+Flask-SQLAlchemy
+Flask-Migrate
+SQLAlchemy-Utils
+flask-marshmallow
+marshmallow-sqlalchemy
+Flask-RESTful
+requests
+uuid
+flask-jwt-extended
+flask-cors
